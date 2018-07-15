@@ -1,5 +1,7 @@
 # Password Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joshghent/password.svg)](https://greenkeeper.io/)
+
 A password generator based on https://xkcd.com/936/
 
 See it live here: https://password.joshghent.com/
